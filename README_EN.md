@@ -12,7 +12,7 @@
     </a>
     <img src="https://img.shields.io/badge/Tauri-v2-orange?style=flat-square" alt="Tauri">
     <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square" alt="React">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
+    <img src="https://img.shields.io/badge/License-CC--BY--NC--SA--4.0-lightgrey?style=flat-square" alt="License">
   </p>
 
   <p>
@@ -159,4 +159,6 @@ npm run build:universal
 ## 📄 License
 
 Copyright © 2025 Antigravity. All rights reserved.
-MIT License
+
+This project is licensed under the **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
+Commercial use of this project or its derivatives is strictly prohibited.
