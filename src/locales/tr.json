@@ -48,7 +48,11 @@
         "switch_to_turkish": "Türkçe'ye Geç",
         "switch_to_turkish_short": "TR",
         "switch_to_vietnamese": "Vietnamca'ya Geç",
-        "switch_to_vietnamese_short": "VI"
+        "switch_to_vietnamese_short": "VI",
+        "switch_to_russian": "Rusça'ya Geç",
+        "switch_to_russian_short": "RU",
+        "switch_to_portuguese": "Portekizce'ye Geç",
+        "switch_to_portuguese_short": "PT"
     },
     "dashboard": {
         "hello": "Merhaba, Kullanıcı 👋",
@@ -376,6 +380,8 @@
                     "title": "Model Eşleme",
                     "title_tooltip": "Mevcut z.ai model kimliklerini alın ve gelen Anthropic/Claude model adlarının z.ai model kimliklerine nasıl çevrileceğini yapılandırın.",
                     "refresh": "Modelleri getir",
+                    "btn_edit": "Düzenle",
+                    "btn_save": "Kaydet",
                     "refreshing": "Getiriliyor...",
                     "hint": "Kullanılabilir modeller: {{count}}. Bir öneri seçin veya özel model kimliği yazın.",
                     "error": "Modeller getirilemedi: {{error}}",
@@ -641,6 +647,20 @@
         "dialog": {
             "clear_title": "Proxy Loglarını Temizle",
             "clear_msg": "Tüm proxy loglarını temizlemek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+        }
+    },
+    "update_notification": {
+        "title": "Yeni Sürüm Mevcut",
+        "message": "Optimizasyonlar ve iyileştirmeler içeren yeni bir sürüm hazır. Mevcut: v{{current}}",
+        "action": "Şimdi Güncelle"
+    },
+    "errors": {
+        "stream": {
+            "timeout_error": "İstek zaman aşımına uğradı, lütfen ağ bağlantınızı kontrol edin",
+            "connection_error": "Bağlantı hatası, lütfen ağ veya proxy ayarlarınızı kontrol edin",
+            "decode_error": "Ağ kararsız, veri iletimi kesildi. Deneyin: 1) Ağı kontrol edin 2) Proxy'yi değiştirin 3) Tekrar deneyin",
+            "stream_error": "Akış iletim hatası, lütfen daha sonra tekrar deneyin",
+            "unknown_error": "Bilinmeyen bir hata oluştu, lütfen daha sonra tekrar deneyin"
         }
     }
 }

@@ -295,6 +295,7 @@ function Settings() {
                                     <option value="tr">Türkçe</option>
                                     <option value="vi">Tiếng Việt</option>
                                     <option value="pt">Português</option>
+                                    <option value="ru">Русский</option>
                                 </select>
                             </div>
 
@@ -630,7 +631,7 @@ function Settings() {
                                 <h3 className="font-medium text-gray-900 dark:text-base-content mb-3">{t('settings.advanced.http_api_title')}</h3>
                                 <div className="bg-gray-50 dark:bg-base-200 border border-gray-200 dark:border-base-300 rounded-lg p-4 space-y-4">
                                     <p className="text-sm text-gray-600 dark:text-gray-400">{t('settings.advanced.http_api_desc')}</p>
-                                    
+
                                     {/* 启用开关 */}
                                     <div className="flex items-center justify-between">
                                         <div>

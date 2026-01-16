@@ -49,7 +49,11 @@
         "switch_to_turkish": "Chuyển sang Tiếng Thổ Nhĩ Kỳ",
         "switch_to_turkish_short": "TR",
         "switch_to_vietnamese": "Chuyển sang Tiếng Việt",
-        "switch_to_vietnamese_short": "VI"
+        "switch_to_vietnamese_short": "VI",
+        "switch_to_russian": "Chuyển sang tiếng Nga",
+        "switch_to_russian_short": "RU",
+        "switch_to_portuguese": "Chuyển sang tiếng Bồ Đào Nha",
+        "switch_to_portuguese_short": "PT"
     },
     "dashboard": {
         "hello": "Xin chào, Bạn 👋",
@@ -674,6 +678,20 @@
         "dialog": {
             "clear_title": "Xóa Logs Proxy",
             "clear_msg": "Bạn có chắc muốn xóa tất cả logs proxy? Hành động này không thể hoàn tác."
+        }
+    },
+    "update_notification": {
+        "title": "Có phiên bản mới",
+        "message": "Có phiên bản mới với nhiều tối ưu và cải tiến. Hiện tại: v{{current}}",
+        "action": "Cập nhật ngay"
+    },
+    "errors": {
+        "stream": {
+            "timeout_error": "Hết thời gian yêu cầu, vui lòng kiểm tra kết nối mạng",
+            "connection_error": "Kết nối thất bại, vui lòng kiểm tra mạng hoặc cài đặt proxy",
+            "decode_error": "Mạng không ổn định, truyền dữ liệu bị gián đoạn. Gợi ý: 1) Kiểm tra mạng 2) Đổi proxy 3) Thử lại",
+            "stream_error": "Lỗi truyền stream, vui lòng thử lại sau",
+            "unknown_error": "Đã xảy ra lỗi không xác định, vui lòng thử lại sau"
         }
     }
 }

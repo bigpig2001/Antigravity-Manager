@@ -51,7 +51,11 @@
         "switch_to_turkish": "切换到土耳其文",
         "switch_to_turkish_short": "TR",
         "switch_to_vietnamese": "切换到越南文",
-        "switch_to_vietnamese_short": "VI"
+        "switch_to_vietnamese_short": "VI",
+        "switch_to_russian": "切换到俄文",
+        "switch_to_russian_short": "RU",
+        "switch_to_portuguese": "切换到葡萄牙文",
+        "switch_to_portuguese_short": "PT"
     },
     "dashboard": {
         "hello": "你好, 用户 👋",

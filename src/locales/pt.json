@@ -53,7 +53,9 @@
         "switch_to_vietnamese": "Alternar para Vietnamita",
         "switch_to_vietnamese_short": "VI",
         "switch_to_portuguese": "Alternar para Português",
-        "switch_to_portuguese_short": "PT"
+        "switch_to_portuguese_short": "PT",
+        "switch_to_russian": "Alternar para Russo",
+        "switch_to_russian_short": "RU"
     },
     "dashboard": {
         "hello": "Olá, Usuário 👋",

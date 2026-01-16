@@ -51,7 +51,11 @@
         "switch_to_turkish": "Switch to Turkish",
         "switch_to_turkish_short": "TR",
         "switch_to_vietnamese": "Switch to Vietnamese",
-        "switch_to_vietnamese_short": "VI"
+        "switch_to_vietnamese_short": "VI",
+        "switch_to_russian": "Switch to Russian",
+        "switch_to_russian_short": "RU",
+        "switch_to_portuguese": "Switch to Portuguese",
+        "switch_to_portuguese_short": "PT"
     },
     "dashboard": {
         "hello": "Hello, User 👋",
