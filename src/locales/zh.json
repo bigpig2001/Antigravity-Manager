@@ -774,6 +774,30 @@
         "message": "新版本已准备就绪，包含多项优化与改进。当前版本: v{{current}}",
         "action": "立即更新"
     },
+    "token_stats": {
+        "title": "Token 消费统计",
+        "hourly": "小时",
+        "daily": "日",
+        "weekly": "周",
+        "total_tokens": "总 Token",
+        "input_tokens": "输入 Token",
+        "output_tokens": "输出 Token",
+        "accounts_used": "活跃账号",
+        "models_used": "使用模型",
+        "model_trend": "分模型使用趋势",
+        "usage_trend": "Token 使用趋势",
+        "by_account": "分账号统计",
+        "model_details": "分模型详细统计",
+        "account_details": "账号详细统计",
+        "model": "模型",
+        "account": "账号",
+        "requests": "请求数",
+        "input": "输入",
+        "output": "输出",
+        "total": "合计",
+        "percentage": "占比",
+        "no_data": "暂无数据"
+    },
     "errors": {
         "stream": {
             "timeout_error": "请求超时,请检查网络连接",

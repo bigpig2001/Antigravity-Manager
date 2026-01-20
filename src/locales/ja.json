@@ -787,6 +787,30 @@
         "message": "最適化と改善が含まれた新しいバージョンの準備ができました。現在のバージョン: v{{current}}",
         "action": "今すぐ更新"
     },
+    "token_stats": {
+        "title": "Token 消費統計",
+        "hourly": "時間",
+        "daily": "日",
+        "weekly": "週",
+        "total_tokens": "合計 Token",
+        "input_tokens": "入力 Token",
+        "output_tokens": "出力 Token",
+        "accounts_used": "アクティブアカウント",
+        "models_used": "使用モデル",
+        "model_trend": "モデル別使用傾向",
+        "usage_trend": "Token 使用傾向",
+        "by_account": "アカウント別統計",
+        "model_details": "モデル別詳細統計",
+        "account_details": "アカウント別詳細統計",
+        "model": "モデル",
+        "account": "アカウント",
+        "requests": "リクエスト数",
+        "input": "入力",
+        "output": "出力",
+        "total": "合計",
+        "percentage": "割合",
+        "no_data": "データなし"
+    },
     "errors": {
         "stream": {
             "timeout_error": "リクエストがタイムアウトしました。ネットワーク接続を確認してください",

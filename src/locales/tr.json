@@ -736,6 +736,30 @@
         "message": "Optimizasyonlar ve iyileştirmeler içeren yeni bir sürüm hazır. Mevcut: v{{current}}",
         "action": "Şimdi Güncelle"
     },
+    "token_stats": {
+        "title": "Token Tüketim İstatistikleri",
+        "hourly": "Saat",
+        "daily": "Gün",
+        "weekly": "Hafta",
+        "total_tokens": "Toplam Token",
+        "input_tokens": "Giriş Token",
+        "output_tokens": "Çıkış Token",
+        "accounts_used": "Aktif Hesaplar",
+        "models_used": "Kullanılan Modeller",
+        "model_trend": "Model Kullanım Trendi",
+        "usage_trend": "Token Kullanım Trendi",
+        "by_account": "Hesaba Göre",
+        "model_details": "Model Detayları",
+        "account_details": "Hesap Detayları",
+        "model": "Model",
+        "account": "Hesap",
+        "requests": "İstekler",
+        "input": "Giriş",
+        "output": "Çıkış",
+        "total": "Toplam",
+        "percentage": "Oran",
+        "no_data": "Veri yok"
+    },
     "errors": {
         "stream": {
             "timeout_error": "İstek zaman aşımına uğradı, lütfen ağ bağlantınızı kontrol edin",

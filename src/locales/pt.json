@@ -777,5 +777,29 @@
             "stream_error": "Erro na transmissão de stream, por favor tente novamente mais tarde",
             "unknown_error": "Erro desconhecido ocorreu, por favor tente novamente mais tarde"
         }
+    },
+    "token_stats": {
+        "title": "Estatísticas de Consumo de Tokens",
+        "hourly": "Hora",
+        "daily": "Dia",
+        "weekly": "Semana",
+        "total_tokens": "Total de Tokens",
+        "input_tokens": "Tokens de Entrada",
+        "output_tokens": "Tokens de Saída",
+        "accounts_used": "Contas Ativas",
+        "models_used": "Modelos Usados",
+        "model_trend": "Tendência de Uso por Modelo",
+        "usage_trend": "Tendência de Uso de Tokens",
+        "by_account": "Por Conta",
+        "model_details": "Detalhes por Modelo",
+        "account_details": "Detalhes por Conta",
+        "model": "Modelo",
+        "account": "Conta",
+        "requests": "Requisições",
+        "input": "Entrada",
+        "output": "Saída",
+        "total": "Total",
+        "percentage": "Porcentagem",
+        "no_data": "Sem dados"
     }
 }

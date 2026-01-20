@@ -774,6 +774,30 @@
         "message": "A new version is ready with optimizations and improvements. Current: v{{current}}",
         "action": "Update Now"
     },
+    "token_stats": {
+        "title": "Token Consumption Stats",
+        "hourly": "Hour",
+        "daily": "Day",
+        "weekly": "Week",
+        "total_tokens": "Total Tokens",
+        "input_tokens": "Input Tokens",
+        "output_tokens": "Output Tokens",
+        "accounts_used": "Active Accounts",
+        "models_used": "Models Used",
+        "model_trend": "Model Usage Trend",
+        "usage_trend": "Token Usage Trend",
+        "by_account": "By Account",
+        "model_details": "Model Breakdown",
+        "account_details": "Account Breakdown",
+        "model": "Model",
+        "account": "Account",
+        "requests": "Requests",
+        "input": "Input",
+        "output": "Output",
+        "total": "Total",
+        "percentage": "Share",
+        "no_data": "No data available"
+    },
     "errors": {
         "stream": {
             "timeout_error": "Request timeout, please check your network connection",

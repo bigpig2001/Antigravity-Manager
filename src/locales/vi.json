@@ -840,6 +840,30 @@
         "message": "Có phiên bản mới với nhiều tối ưu và cải tiến. Hiện tại: v{{current}}",
         "action": "Cập nhật ngay"
     },
+    "token_stats": {
+        "title": "Thống kê tiêu thụ Token",
+        "hourly": "Giờ",
+        "daily": "Ngày",
+        "weekly": "Tuần",
+        "total_tokens": "Tổng Token",
+        "input_tokens": "Token đầu vào",
+        "output_tokens": "Token đầu ra",
+        "accounts_used": "Tài khoản hoạt động",
+        "models_used": "Model đã dùng",
+        "model_trend": "Xu hướng sử dụng theo Model",
+        "usage_trend": "Xu hướng sử dụng Token",
+        "by_account": "Theo tài khoản",
+        "model_details": "Chi tiết theo Model",
+        "account_details": "Chi tiết theo tài khoản",
+        "model": "Model",
+        "account": "Tài khoản",
+        "requests": "Số yêu cầu",
+        "input": "Đầu vào",
+        "output": "Đầu ra",
+        "total": "Tổng",
+        "percentage": "Tỷ lệ",
+        "no_data": "Không có dữ liệu"
+    },
     "errors": {
         "stream": {
             "timeout_error": "Hết thời gian yêu cầu, vui lòng kiểm tra kết nối mạng",
