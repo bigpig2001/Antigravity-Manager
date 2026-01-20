@@ -18,17 +18,16 @@ pub async fn monitor_middleware(
     request: Request,
     next: Next,
 ) -> Response {
-    if !state.monitor.is_enabled() {
-        return next.run(request).await;
-    }
-
-    let start = Instant::now();
+    let logging_enabled = state.monitor.is_enabled();
+    
     let method = request.method().to_string();
     let uri = request.uri().to_string();
     
     if uri.contains("event_logging") {
         return next.run(request).await;
     }
+    
+    let start = Instant::now();
     
     let mut model = if uri.contains("/v1beta/models/") {
         uri.split("/v1beta/models/")
